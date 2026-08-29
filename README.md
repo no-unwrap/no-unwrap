@@ -40,25 +40,6 @@ In functional programming, I'm drawn to effect tracking, algebraic data
 types, totality checking, and the bias toward total functions over partial
 ones. *The right type makes the wrong state hard to spell.*
 
-## Discipline
-
-<table width="100%">
-<colgroup>
-<col width="35%">
-<col width="65%">
-</colgroup>
-<tr><td><b>No swallowed failures</b></td><td>Errors propagate or get explicit rationale</td></tr>
-<tr><td><b>Illegal states unrepresentable</b></td><td>Encode invariants at the type level</td></tr>
-<tr><td><b>Pure cores, effectful edges</b></td><td>Effects tracked; total where the type permits</td></tr>
-<tr><td><b>Exhaustive pattern matching</b></td><td>No catch-alls that swallow new cases</td></tr>
-<tr><td><b>No accidental quadratics</b></td><td>Complexity claimed up front; WCET when deployed</td></tr>
-<tr><td><b>Strict-by-default static analysis</b></td><td>Explicit allowance ledger for every exception</td></tr>
-<tr><td><b>Qualified toolchains, MISRA-grade source</b></td><td>Where the deployment context calls for it</td></tr>
-<tr><td><b>Mutation-tested coverage</b></td><td>Tests that don't kill mutations get rewritten</td></tr>
-<tr><td><b>Supply-chain discipline</b></td><td><code>cargo-deny</code> for Rust; equivalents elsewhere</td></tr>
-<tr><td><b>Independent peer review</b></td><td>Before any change ships</td></tr>
-</table>
-
 ## Elsewhere
 
 [no-unwrap.github.io](https://no-unwrap.github.io)
