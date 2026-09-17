@@ -2,8 +2,8 @@ Computer vision researcher and aspiring cert-grade systems engineer.
 
 My research is in visual saliency and attention, with a focus on how
 perception differs across populations that datasets tend to leave out.
-Alongside it I work on safety-critical software: systems built to be
-verified rather than merely tested.
+Alongside it I'm learning to develop work on safety-critical software: 
+systems built to be verified rather than merely tested.
 
 Learned components are steadily entering safety-critical systems, and the
 two halves of that problem are usually held by different people. I want to
