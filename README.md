@@ -33,12 +33,11 @@ I think about building software.
 </table>
 
 In systems, I'm drawn to ownership, type-level invariants, allocator
-discipline, and compile-time composition. *The closer to the metal the
-work runs, the more interesting it gets.*
+discipline, and compile-time composition.
 
 In functional programming, I'm drawn to effect tracking, algebraic data
 types, totality checking, and the bias toward total functions over partial
-ones. *The right type makes the wrong state hard to spell.*
+ones.
 
 ## Elsewhere
 
