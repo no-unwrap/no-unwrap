@@ -36,7 +36,7 @@ With systems, I'm drawn to ownership, type-level invariants, allocator
 discipline, and compile-time composition.
 
 With functional, I'm drawn to effect tracking, algebraic data
-types, totality checking, and total functions.
+types, totality checking, and total over partial functions.
 
 ## Elsewhere
 
