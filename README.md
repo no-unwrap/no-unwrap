@@ -32,12 +32,11 @@ I think about building software.
 </tbody>
 </table>
 
-In systems, I'm drawn to ownership, type-level invariants, allocator
+With systems, I'm drawn to ownership, type-level invariants, allocator
 discipline, and compile-time composition.
 
-In functional programming, I'm drawn to effect tracking, algebraic data
-types, totality checking, and the bias toward total functions over partial
-ones.
+With functional, I'm drawn to effect tracking, algebraic data
+types, totality checking, and total functions.
 
 ## Elsewhere
 
