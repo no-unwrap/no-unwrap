@@ -36,5 +36,3 @@ to projects I admire.
 </tr>
 </tbody>
 </table>
-
-[no-unwrap.github.io](https://no-unwrap.github.io)
