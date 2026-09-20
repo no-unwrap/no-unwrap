@@ -1,4 +1,4 @@
-Computer vision researcher and aspiring cert-grade systems engineer.
+Computer vision researcher and aspiring cert-grade systems/security engineer.
 
 My research is in visual saliency and attention, with a focus on how
 perception differs across populations that datasets tend to leave out.
