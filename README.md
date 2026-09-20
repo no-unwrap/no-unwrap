@@ -23,12 +23,11 @@ I think about building software.
 <col width="38%">
 </colgroup>
 <thead>
-<tr><th></th><th>Modern</th><th>Foundational</th></tr>
 </thead>
 <tbody>
-<tr><td><b>Systems</b></td><td>Rust, Zig</td><td>C, C++</td></tr>
-<tr><td><b>Functional</b></td><td>Haskell, Lean 4</td><td>Lisp, Scheme</td></tr>
-<tr><td><b>Research</b></td><td>Python</td><td>MATLAB</td></tr>
+<tr><td><b>Systems</b></td><td>Rust, Zig, C, C++</td></tr>
+<tr><td><b>Functional</b></td><td>Haskell, Scala, Elixir</td></tr>
+<tr><td><b>Research</b></td><td>Python, LaTeX</td></tr>
 </tbody>
 </table>
 
