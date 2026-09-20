@@ -9,7 +9,7 @@ Learned components are steadily entering security and safety-critical systems en
 and the two halves of that problem are usually held by different people. I want to
 be an engineer who can be trusted with both.
 
-Mostly heads-down; occasional contributions to projects I depend on or admire.
+Mostly heads-down; occasional contributions to projects I admire.
 
 ## Philosophy
 
