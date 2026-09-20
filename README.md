@@ -27,7 +27,7 @@ I think about building software.
 <tbody>
 <tr><td><b>Systems</b></td><td>Rust, Zig, C, C++</td></tr>
 <tr><td><b>Functional</b></td><td>Haskell, Scala, Elixir</td></tr>
-<tr><td><b>Research</b></td><td>Python, LaTeX</td></tr>
+<tr><td><b>Research</b></td><td>Python, Swift, LaTeX</td></tr>
 </tbody>
 </table>
 
