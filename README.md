@@ -5,8 +5,8 @@ perception differs across populations that datasets tend to leave out.
 Alongside it I'm learning to develop safety-critical software: 
 secure systems built to be verified rather than tested.
 
-Learned components are steadily entering security and safety-critical systems, and the
-two halves of that problem are usually held by different people. I want to
+Learned components are steadily entering security and safety-critical systems engineering, 
+and the two halves of that problem are usually held by different people. I want to
 be an engineer who can be trusted with both.
 
 Mostly heads-down; occasional contributions to projects I depend on or admire.
