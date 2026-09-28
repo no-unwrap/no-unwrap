@@ -1,12 +1,6 @@
-My research is in visual saliency and attention, with a focus on how
-perception differs across populations that datasets tend to leave out,
-including people with traumatic brain injury and people who are blind or
-have low vision. Much of what I build for it is research infrastructure:
-tools for annotation, dataset engineering, benchmarking, and figures,
-designed so results stay reproducible and auditable years later.
-
-Alongside it I'm learning to develop secure, safety-critical systems,
-built to be verified rather than tested. That work is mostly in Rust,
+I am a computer vision researcher, and alongside that I'm learning to
+develop secure, safety-critical systems, built to be verified rather than
+tested. That work is mostly in Rust,
 moving from sanitizers and fuzzing toward model checking and
 machine-checked proofs. I'm also getting into offensive security and
 defensive programming, looking at how memory-safety bugs turn into
