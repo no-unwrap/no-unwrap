@@ -12,9 +12,8 @@ an engineer who can be trusted with all three.
 
 With systems, I'm drawn to ownership, type-level invariants, allocator
 discipline, and compile-time composition. With functional, I'm drawn to
-effect tracking, algebraic data types, and totality checking.
-
-Some of these I work in, some I'm learning my way into. All of them shape how
+effect tracking, algebraic data types, and totality checking. Some of 
+these I work in, some I'm learning my way into. All of them shape how 
 I think about building software.
 
 <table>
