@@ -2,12 +2,12 @@
 
 I am a computer vision researcher, and alongside that I'm learning to
 develop secure, safety-critical systems, built to be verified rather than
-tested. I'm also exploring offensive security and defensive programming, 
-looking at how memory-safety bugs turn into exploits and how to design 
-code that rules them out. Learned components are steadily entering 
-these systems, and the models, the low-level systems they run on, and 
-the assurance that they behave correctly are usually held by different 
-people. I want to be an engineer who can be trusted with all three.
+tested. I'm also exploring secure programming for these systems, looking at 
+how memory-safety bugs turn into exploits and how to design code that rules 
+them out. Learned components are steadily entering these systems, and the 
+models, the low-level systems they run on, and the assurance that they 
+behave correctly are usually held by different people. I want to be an 
+engineer who can be trusted with all three.
 
 ## Philosophy
 
