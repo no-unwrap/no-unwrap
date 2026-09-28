@@ -1,7 +1,7 @@
 My research is in visual saliency and attention, with a focus on how
 perception differs across populations that datasets tend to leave out.
-Alongside it I'm learning to develop safety-critical software:
-secure systems built to be verified rather than tested.
+Alongside it I'm learning to develop secure, safety-critical systems,
+built to be verified rather than tested.
 
 Learned components are steadily entering secure, safety-critical systems,
 and the models, the low-level systems they run on, and the assurance that
