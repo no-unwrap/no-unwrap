@@ -10,24 +10,20 @@ to be an engineer who can be trusted with all three.
 
 ## Philosophy
 
-With systems, I'm drawn to ownership, type-level invariants, allocator
-discipline, and compile-time composition. With functional, I'm drawn to
-effect tracking, algebraic data types, and totality checking. With
-verification, I'm drawn to machine-checked specifications, model checking,
-and proofs that hold for all inputs. Some of these I work in, some I'm
-learning my way into. All of them shape how I think about building software.
+Some of these I work in, some I'm learning my way into. All of them shape how I
+think about building software.
 
 <table>
 <thead>
-<tr><th align="left">Paradigm</th><th align="left">Languages</th></tr>
+<tr><th align="left">Paradigm</th><th align="left">Languages</th><th align="left">Context</th><th align="left">Drawn to</th></tr>
 </thead>
 <tbody>
-<tr><td>Systems</td><td>Rust, Zig, C, C++, Ada</td></tr>
-<tr><td>Security</td><td>x86-64 asm, ARM64 asm</td></tr>
-<tr><td>Functional</td><td>Haskell, Scala, Elixir, Nix</td></tr>
-<tr><td>Verification</td><td>Lean 4, Verus, TLA+</td></tr>
-<tr><td>Research</td><td>Python, Swift, LaTeX</td></tr>
-<tr><td>GPU</td><td>CUDA, Vulkan, GLSL</td></tr>
+<tr><td>Systems</td><td>Rust,&nbsp;Zig,&nbsp;C,&nbsp;C++,&nbsp;Ada</td><td>Professional,&nbsp;Personal</td><td>Ownership, type-level invariants, allocator discipline, compile-time composition</td></tr>
+<tr><td>Security</td><td>x86&#8209;64&nbsp;asm,&nbsp;ARM64&nbsp;asm</td><td>Personal</td><td>How memory-safety bugs turn into exploits, and code that rules them out</td></tr>
+<tr><td>Functional</td><td>Haskell,&nbsp;Scala,&nbsp;Elixir,&nbsp;Nix</td><td>Personal</td><td>Effect tracking, algebraic data types, totality checking</td></tr>
+<tr><td>Verification</td><td>Lean&nbsp;4,&nbsp;Verus,&nbsp;TLA+</td><td>Personal</td><td>Machine-checked specifications, model checking, proofs that hold for all inputs</td></tr>
+<tr><td>Research</td><td>Python,&nbsp;Swift,&nbsp;LaTeX</td><td>Academic</td><td>Computer vision</td></tr>
+<tr><td>GPU</td><td>CUDA,&nbsp;Vulkan,&nbsp;GLSL</td><td>Personal</td><td>—</td></tr>
 </tbody>
 </table>
 
