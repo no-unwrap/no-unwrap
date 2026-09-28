@@ -30,15 +30,17 @@ learning my way into. All of them shape how I think about building software.
 
 <table>
 <thead>
-<tr><th align="left">Paradigm</th><th align="left">Languages</th></tr>
+<tr><th align="left">Systems</th><th align="left">Security</th><th align="left">Functional</th><th align="left">Verification</th><th align="left">Research</th><th align="left">GPU</th></tr>
 </thead>
 <tbody>
-<tr><td>Systems</td><td>Rust, Zig, C, C++, Ada</td></tr>
-<tr><td>Security</td><td>x86-64 asm, ARM64 asm</td></tr>
-<tr><td>Functional</td><td>Haskell, Scala, Elixir, Nix</td></tr>
-<tr><td>Verification</td><td>Lean 4, Verus, TLA+</td></tr>
-<tr><td>Research</td><td>Python, Swift, LaTeX</td></tr>
-<tr><td>GPU</td><td>CUDA, Vulkan, GLSL</td></tr>
+<tr valign="top">
+<td>Rust<br>Zig<br>C<br>C++<br>Ada</td>
+<td>x86-64 asm<br>ARM64 asm</td>
+<td>Haskell<br>Scala<br>Elixir<br>Nix</td>
+<td>Lean 4<br>Verus<br>TLA+</td>
+<td>Python<br>Swift<br>LaTeX</td>
+<td>CUDA<br>Vulkan<br>GLSL</td>
+</tr>
 </tbody>
 </table>
 
@@ -49,4 +51,4 @@ learning my way into. All of them shape how I think about building software.
 - Interpreting COVID Lateral Flow Tests' Results with Foundation Models. CVPR Workshops 2024. [paper](https://openaccess.thecvf.com/content/CVPR2024W/DEF-AI-MIA/papers/Pandey_Interpreting_COVID_Lateral_Flow_Tests_Results_with_Foundation_Models_CVPRW_2024_paper.pdf)
 - Hierarchical Instance Tracking to Balance Privacy Preservation with Accessible Information. WACV 2026. [paper](https://openaccess.thecvf.com/content/WACV2026/papers/Prasad_Hierarchical_Instance_Tracking_to_Balance_Privacy_Preservation_with_Accessible_Information_WACV_2026_paper.pdf)
 
-[Website](https://no-unwrap.github.io) · [Google Scholar](https://scholar.google.com/citations?user=BypC2fgAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/no-unwrap/)
+[Website](https://no-unwrap.github.io) · [Google Scholar](https://scholar.google.com/citations?user=BypC2fgAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/no-unwrap/) · [YouTube](https://www.youtube.com/@no-unwrap) · [Instagram](https://www.instagram.com/no.unwrap)
