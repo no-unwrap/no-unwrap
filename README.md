@@ -1,5 +1,3 @@
-![](assets/banner.webp)
-
 My research is in visual saliency and attention, with a focus on how
 perception differs across populations that datasets tend to leave out,
 including people with traumatic brain injury and people who are blind or
