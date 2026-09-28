@@ -1,11 +1,11 @@
 ## Focus
 
-I am a published computer vision researcher, and alongside that I'm learning 
+I am a computer vision researcher, and alongside that I'm learning 
 to develop secure, safety-critical systems, built to be verified rather than
 tested. I'm also exploring secure programming, looking at how memory-safety 
 bugs turn into exploits, and how to design code that rules them out. Learned 
 components are entering these systems, and the models, their low-level systems, 
-and their correctness assurances are usually held by different people. I want 
+and the assurance that they work correctly are usually held by different people. I want 
 to be an engineer who can be trusted with all three.
 
 ## Philosophy
