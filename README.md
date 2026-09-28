@@ -30,17 +30,15 @@ learning my way into. All of them shape how I think about building software.
 
 <table>
 <thead>
-<tr><th align="left">Systems</th><th align="left">Security</th><th align="left">Functional</th><th align="left">Verification</th><th align="left">Research</th><th align="left">GPU</th></tr>
+<tr><th align="left">Paradigm</th><th align="left">Languages</th></tr>
 </thead>
 <tbody>
-<tr valign="top">
-<td>Rust<br>Zig<br>C<br>C++<br>Ada</td>
-<td>x86-64 asm<br>ARM64 asm</td>
-<td>Haskell<br>Scala<br>Elixir<br>Nix</td>
-<td>Lean 4<br>Verus<br>TLA+</td>
-<td>Python<br>Swift<br>LaTeX</td>
-<td>CUDA<br>Vulkan<br>GLSL</td>
-</tr>
+<tr><td>Systems</td><td>Rust, Zig, C, C++, Ada</td></tr>
+<tr><td>Security</td><td>x86-64 asm, ARM64 asm</td></tr>
+<tr><td>Functional</td><td>Haskell, Scala, Elixir, Nix</td></tr>
+<tr><td>Verification</td><td>Lean 4, Verus, TLA+</td></tr>
+<tr><td>Research</td><td>Python, Swift, LaTeX</td></tr>
+<tr><td>GPU</td><td>CUDA, Vulkan, GLSL</td></tr>
 </tbody>
 </table>
 
