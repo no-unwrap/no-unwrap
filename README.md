@@ -10,14 +10,11 @@ built to be verified rather than tested. That work is mostly in Rust,
 moving from sanitizers and fuzzing toward model checking and
 machine-checked proofs. I'm also getting into offensive security and
 defensive programming, looking at how memory-safety bugs turn into
-exploits and how to design code that rules them out.
-
-Learned components are steadily entering these systems, and the models,
+exploits and how to design code that rules them out. Learned components
+are steadily entering these systems, and the models,
 the low-level systems they run on, and the assurance that they behave
 correctly are usually held by different people. I want to be an engineer
 who can be trusted with all three.
-
-## Philosophy
 
 With systems, I'm drawn to ownership, type-level invariants, allocator
 discipline, and compile-time composition. With functional, I'm drawn to
@@ -46,5 +43,3 @@ learning my way into. All of them shape how I think about building software.
 - SPIN: Hierarchical Segmentation with Subpart Granularity in Natural Images. ECCV 2024. [paper](https://arxiv.org/pdf/2407.09686)
 - Interpreting COVID Lateral Flow Tests' Results with Foundation Models. CVPR Workshops 2024. [paper](https://openaccess.thecvf.com/content/CVPR2024W/DEF-AI-MIA/papers/Pandey_Interpreting_COVID_Lateral_Flow_Tests_Results_with_Foundation_Models_CVPRW_2024_paper.pdf)
 - Salient Object Detection for Images Taken by People with Vision Impairments. WACV 2024. [paper](https://openaccess.thecvf.com/content/WACV2024/papers/Reynolds_Salient_Object_Detection_for_Images_Taken_by_People_With_Vision_WACV_2024_paper.pdf)
-
-[Website](https://no-unwrap.github.io) · [Google Scholar](https://scholar.google.com/citations?user=BypC2fgAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/no-unwrap/) · [YouTube](https://www.youtube.com/@no-unwrap) · [Instagram](https://www.instagram.com/no.unwrap)
