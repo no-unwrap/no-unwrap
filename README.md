@@ -22,8 +22,8 @@ think about building software.
 <tr><td>Security</td><td>x86&#8209;64&nbsp;asm,&nbsp;ARM64&nbsp;asm</td><td>Personal</td><td>How memory-safety bugs turn into exploits, and code that rules them out</td></tr>
 <tr><td>Functional</td><td>Haskell,&nbsp;Scala,&nbsp;Elixir,&nbsp;Nix</td><td>Personal</td><td>Effect tracking, algebraic data types, totality checking</td></tr>
 <tr><td>Verification</td><td>Lean&nbsp;4,&nbsp;Verus,&nbsp;TLA+</td><td>Personal</td><td>Machine-checked specifications, model checking, proofs that hold for all inputs</td></tr>
-<tr><td>Research</td><td>Python,&nbsp;Swift,&nbsp;LaTeX</td><td>Academic</td><td>Computer vision</td></tr>
-<tr><td>GPU</td><td>CUDA,&nbsp;Vulkan,&nbsp;GLSL</td><td>Personal</td><td>—</td></tr>
+<tr><td>Research</td><td>Python,&nbsp;Swift,&nbsp;LaTeX</td><td>Academic</td><td>Computer vision, AR/XR, benchmarking, failure modes</td></tr>
+<tr><td>GPU</td><td>CUDA,&nbsp;Vulkan,&nbsp;GLSL</td><td>Personal</td><td>Synthetic dataset creation, deep/machine learning</td></tr>
 </tbody>
 </table>
 
