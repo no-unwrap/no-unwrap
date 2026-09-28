@@ -25,8 +25,8 @@ I think about building software.
 <tr><td>Security</td><td>x86-64 and ARM64 assembly</td></tr>
 <tr><td>Functional</td><td>Haskell, Scala, Elixir, Nix</td></tr>
 <tr><td>Verification</td><td>Lean 4, Verus, TLA+</td></tr>
-<tr><td>GPU</td><td>CUDA, Vulkan, GLSL</td></tr>
 <tr><td>Research</td><td>Python, Swift, LaTeX</td></tr>
+<tr><td>GPU</td><td>CUDA, Vulkan, GLSL</td></tr>
 </tbody>
 </table>
 
