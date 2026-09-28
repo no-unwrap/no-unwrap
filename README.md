@@ -42,9 +42,9 @@ learning my way into. All of them shape how I think about building software.
 
 ## Publications
 
-- **Salient Object Detection for Images Taken by People with Vision Impairments.** WACV 2024, first author. [paper](https://openaccess.thecvf.com/content/WACV2024/papers/Reynolds_Salient_Object_Detection_for_Images_Taken_by_People_With_Vision_WACV_2024_paper.pdf)
+- Hierarchical Instance Tracking to Balance Privacy Preservation with Accessible Information. WACV 2026. [paper](https://openaccess.thecvf.com/content/WACV2026/papers/Prasad_Hierarchical_Instance_Tracking_to_Balance_Privacy_Preservation_with_Accessible_Information_WACV_2026_paper.pdf)
 - SPIN: Hierarchical Segmentation with Subpart Granularity in Natural Images. ECCV 2024. [paper](https://arxiv.org/pdf/2407.09686)
 - Interpreting COVID Lateral Flow Tests' Results with Foundation Models. CVPR Workshops 2024. [paper](https://openaccess.thecvf.com/content/CVPR2024W/DEF-AI-MIA/papers/Pandey_Interpreting_COVID_Lateral_Flow_Tests_Results_with_Foundation_Models_CVPRW_2024_paper.pdf)
-- Hierarchical Instance Tracking to Balance Privacy Preservation with Accessible Information. WACV 2026. [paper](https://openaccess.thecvf.com/content/WACV2026/papers/Prasad_Hierarchical_Instance_Tracking_to_Balance_Privacy_Preservation_with_Accessible_Information_WACV_2026_paper.pdf)
+- Salient Object Detection for Images Taken by People with Vision Impairments. WACV 2024. [paper](https://openaccess.thecvf.com/content/WACV2024/papers/Reynolds_Salient_Object_Detection_for_Images_Taken_by_People_With_Vision_WACV_2024_paper.pdf)
 
 [Website](https://no-unwrap.github.io) · [Google Scholar](https://scholar.google.com/citations?user=BypC2fgAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/no-unwrap/) · [YouTube](https://www.youtube.com/@no-unwrap) · [Instagram](https://www.instagram.com/no.unwrap)
