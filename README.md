@@ -1,7 +1,7 @@
 ## Focus
 
-I am a computer vision researcher, and alongside that I'm learning to
-develop secure, safety-critical systems, built to be verified rather than
+I am a published computer vision researcher, and alongside that I'm learning 
+to develop secure, safety-critical systems, built to be verified rather than
 tested. I'm also exploring secure programming for these systems, looking at 
 how memory-safety bugs turn into exploits and how to design code that rules 
 them out. Learned components are steadily entering these systems, and the 
