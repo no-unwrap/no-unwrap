@@ -21,7 +21,7 @@ I think about building software.
 <tr><th align="left">Paradigm</th><th align="left">Languages</th></tr>
 </thead>
 <tbody>
-<tr><td>Systems</td><td>Rust, Zig, C, C++</td></tr>
+<tr><td>Systems</td><td>Rust, Zig, C, C++, Ada</td></tr>
 <tr><td>Security</td><td>x86-64 and ARM64 assembly</td></tr>
 <tr><td>Functional</td><td>Haskell, Scala, Elixir, Nix</td></tr>
 <tr><td>Verification</td><td>Lean 4, Verus, TLA+</td></tr>
