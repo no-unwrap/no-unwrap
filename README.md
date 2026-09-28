@@ -14,8 +14,7 @@ by different people. I want to be an engineer who can be trusted with both.
 ## Philosophy
 
 Some of these I work in, some I'm learning my way into. All of them shape how
-I think about building software. Mostly heads-down; occasional contributions 
-to projects I admire.
+I think about building software.
 
 <table width="100%">
 <colgroup>
