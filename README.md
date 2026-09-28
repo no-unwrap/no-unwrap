@@ -1,3 +1,5 @@
+## Focus
+
 I am a computer vision researcher, and alongside that I'm learning to
 develop secure, safety-critical systems, built to be verified rather than
 tested. That work is mostly in Rust, moving from sanitizers and fuzzing 
@@ -9,6 +11,8 @@ Learned components are steadily entering these systems, and the models,
 the low-level systems they run on, and the assurance that they behave
 correctly are usually held by different people. I want to be an engineer
 who can be trusted with all three.
+
+## Philosophy
 
 With systems, I'm drawn to ownership, type-level invariants, allocator
 discipline, and compile-time composition. With functional, I'm drawn to
