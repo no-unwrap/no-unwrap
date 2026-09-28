@@ -18,19 +18,18 @@ I think about building software.
 
 <table width="100%">
 <colgroup>
-<col width="33%">
-<col width="34%">
-<col width="33%">
+<col width="50%">
+<col width="50%">
 </colgroup>
 <thead>
-<tr><th align="left">Systems</th><th align="left">Functional</th><th align="left">Research</th></tr>
+<tr><th align="left">Paradigm</th><th align="left">Language</th></tr>
 </thead>
 <tbody>
-<tr>
-<td>Rust, Zig, C, C++</td>
-<td>Haskell, Scala, Elixir</td>
-<td>Python, Swift, LaTeX</td>
-</tr>
+<tr><td>Systems</td><td>Rust, Zig, C, C++</td></tr>
+<tr></tr><td>Functional</td><td>Haskell, Scala, Elixir</td></tr>
+<tr></tr><td>Research</td><td>Python, Swift, LaTeX</td></tr>
+
+
 </tbody>
 </table>
 
