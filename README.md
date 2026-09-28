@@ -22,7 +22,7 @@ I think about building software.
 </thead>
 <tbody>
 <tr><td>Systems</td><td>Rust, Zig, C, C++, Ada</td></tr>
-<tr><td>Security</td><td>x86-64 and ARM64 assembly</td></tr>
+<tr><td>Security</td><td>x86-64 asm, ARM64 asm</td></tr>
 <tr><td>Functional</td><td>Haskell, Scala, Elixir, Nix</td></tr>
 <tr><td>Verification</td><td>Lean 4, Verus, TLA+</td></tr>
 <tr><td>Research</td><td>Python, Swift, LaTeX</td></tr>
